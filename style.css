@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Coiny&family=DM+Sans:wght@100;200;300;400;500;600;700;800&family=Sono:wght@400;600;700&display=swap");
+
+* {
+  margin: 0 !important;
+  font-family: "DM Sans";
+  color: #1e0e62 !important;
+}
+
+body {
+  background: #fff !important;
+  margin: 30px !important;
+}
+
+.navbar {
+  margin-top: 15px !important;
+  /* margin-right: 5px !important; */
+  /* width: 972px; */
+  /* height: 40px; */
+}
+
+.navbar-brand {
+  margin-right: 358px !important;
+}
+
+.nav-link {
+  margin-right: 33px !important;
+}
+
+.navbar-nav {
+  /* margin-right: 0 !important; */
+  /* width: 300px; */
+}
+
+.nav-about {
+  color: #1e0e62 !important;
+  opacity: 0.30000001192092896 !important;
+}
+
+.btn-buy {
+  border-radius: 100px;
+  background: #482be7;
+
+  color: #fff !important;
+  /* text-align: center; */
+  width: 80px;
+  height: 40px;
+
+  border: none;
+  /* margin-right: 20px !important; */
+}
+
+section {
+  margin-top: 126px !important;
+  width: 80%;
+  margin-left: 20px !important;
+}
+
+.herotext {
+  width: 100%;
+  margin-top: 114px;
+}
+
+.herotext h1 {
+  /* font-style: normal; */
+  /* font-weight: 700; */
+  color: var(--colors-heading, #1e0e62);
+
+  /* Heading / H2 Header */
+  font-family: "DM Sans";
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 70px; /* 120.69% */
+  letter-spacing: -1px;
+}
+
+.para-text {
+  margin-top: 24px !important;
+  color: var(--colors-text, rgba(21, 20, 57, 0.4)) !important;
+
+  /* Heading / H5 Lead */
+  font-family: DM Sans;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px; /* 145.455% */
+
+  opacity: 0.699999988079071;
+}
+
+.btn-hero {
+  margin-top: 45px !important;
+  width: 153px;
+  height: 50px;
+  flex-shrink: 0;
+
+  border-radius: 100px;
+  background: var(--action-primary, #25dac5);
+
+  color: var(--colors-white, #fff) !important;
+  text-align: center;
+
+  /* Buttons / Middle */
+  font-family: "DM Sans";
+  border: none;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 144.444% */
+}
+
+.btn-learnMore {
+  border: none;
+  background-color: #fff;
+  /* margin-left: 8px !important; */
+}
+
+.iphone-screen {
+  width: 100%;
+  margin-top: 74px;
+}
+
+.image-iphone {
+  width: 100%;
+}
